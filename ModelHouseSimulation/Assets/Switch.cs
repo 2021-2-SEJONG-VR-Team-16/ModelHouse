@@ -26,7 +26,7 @@ public class Switch : MonoBehaviour
                 MouseClick.objectName = null;
             }
         }catch(Exception ex){
-            Debug.Log("Switch");
+            Debug.Log("Switch : " + ex);
         }
     }
 }

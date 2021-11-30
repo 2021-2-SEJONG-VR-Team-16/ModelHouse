@@ -36,7 +36,7 @@ public class Door : MonoBehaviour
                 transform.eulerAngles = new Vector3(0, yRotate, 0);
             }
         }catch(Exception ex) {
-            Debug.Log("Door");
+            Debug.Log("Door : " + ex);
         }
     }
 }
