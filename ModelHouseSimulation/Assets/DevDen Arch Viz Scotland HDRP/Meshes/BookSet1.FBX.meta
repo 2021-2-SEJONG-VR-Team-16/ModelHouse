@@ -18,14 +18,9 @@ ModelImporter:
   - first:
       43: 4300000
     second: BookParts1
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: BooksSet
-    second: {fileID: 2100000, guid: 190954cc01776b541b4515be75986338, type: 2}
+  externalObjects: {}
   materials:
-    materialImportMode: 1
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
