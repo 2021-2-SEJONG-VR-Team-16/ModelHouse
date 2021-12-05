@@ -134,7 +134,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Aluminium Black Anodized
-    second: {fileID: 2100000, guid: e68e525f33262b5458f939fda55624cb, type: 2}
+    second: {fileID: 2100000, guid: 4de3204f745b1c3438dda73e0e8f0c20, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

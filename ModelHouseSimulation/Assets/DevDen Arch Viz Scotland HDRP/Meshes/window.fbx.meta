@@ -102,7 +102,12 @@ ModelImporter:
   - first:
       43: 4300010
     second: doors_windowspolySurface681windowpolySurface683
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: c6fc8e8d24a39324da3a81ba04501f09, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

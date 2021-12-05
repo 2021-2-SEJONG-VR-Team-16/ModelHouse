@@ -71,7 +71,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8029648565140483045}
-  m_Mesh: {fileID: 4300000, guid: 2a329a9deb2615a4f881528cf7118a32, type: 3}
+  m_Mesh: {fileID: 0}
 --- !u!23 &8014246752654837103
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -86,6 +86,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -110,6 +112,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &8029701637711202735
 GameObject:
   m_ObjectHideFlags: 0
@@ -149,7 +152,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8029701637711202735}
-  m_Mesh: {fileID: 4300004, guid: 2a329a9deb2615a4f881528cf7118a32, type: 3}
+  m_Mesh: {fileID: 4300002, guid: 4fb02a985c81ecd4cae2c0ba23a20919, type: 3}
 --- !u!23 &8014213585663564837
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -164,6 +167,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -188,3 +193,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}

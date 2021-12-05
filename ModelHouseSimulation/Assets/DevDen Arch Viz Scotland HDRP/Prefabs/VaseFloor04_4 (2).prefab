@@ -40,7 +40,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4585976164384414862}
-  m_Mesh: {fileID: 4300000, guid: e2244351b55b1b1419847029550b8134, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 7a42a3aa9aded4b4bbe3dc01dc0805cd, type: 3}
 --- !u!23 &4607563086410007430
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -55,11 +55,13 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3feeaa973781d8a499ebaffe52dc5069, type: 2}
-  - {fileID: 2100000, guid: 6e4aa8f8f67b44a49ba5b539aed21414, type: 2}
+  - {fileID: 2100000, guid: 4e632116817848e4697d7a4c038f5566, type: 2}
+  - {fileID: 2100000, guid: cf1264f540ebacd479cd135c22c04384, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -80,6 +82,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!136 &4487662685334300094
 CapsuleCollider:
   m_ObjectHideFlags: 0

@@ -1035,7 +1035,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: green_wood
-    second: {fileID: 2100000, guid: 97016c2f209c3514e8c1fac792d2d6ca, type: 2}
+    second: {fileID: 2100000, guid: de54296d2017e204a912ae037e46c387, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
