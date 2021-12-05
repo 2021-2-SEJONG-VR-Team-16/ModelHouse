@@ -23,7 +23,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lamp_emission
-    second: {fileID: 2100000, guid: ae6fe5718214f4a448775964ff81e810, type: 2}
+    second: {fileID: 2100000, guid: 0cc86b1a13dc042419f7d8aa6c46ada5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
