@@ -1297,7 +1297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2599799173216666677, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3495834694369214955, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
       propertyPath: m_Mode
@@ -1358,6 +1358,54 @@ PrefabInstance:
     - target: {fileID: 7602359858045933298, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
       propertyPath: m_RefreshMode
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.601
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.276
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9914449
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.13052624
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656817, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -15
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656820, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656823, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111243393230656827, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
+      propertyPath: m_Name
+      value: Water_Flow
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1d0550bddcf1a545865afef62156d02, type: 3}
@@ -1578,7 +1626,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1161819928684108085, guid: ce46a2b38dab4404981f7fe5c6f6196e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce46a2b38dab4404981f7fe5c6f6196e, type: 3}
