@@ -804,6 +804,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 532848375426385401, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 586800120602845344, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1076572585793369367, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1953040234576546491, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2514835523802017936, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3519371950847124875, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4396021313466031990, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
       propertyPath: m_Name
       value: Interior2
@@ -854,6 +878,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4396021313466031991, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4928241714024137857, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5965767452620149695, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6033426559868959454, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6431727987827853861, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848082779887377490, guid: fac665e66b97d4c4d8217764a43d1723, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
