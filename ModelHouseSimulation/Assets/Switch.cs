@@ -5,7 +5,7 @@ using System;
 
 public class Switch : MonoBehaviour
 {
-    public GameObject light;
+    public GameObject[] light;
     AudioSource audioSource;
 
     void Start()
@@ -19,17 +19,18 @@ public class Switch : MonoBehaviour
         {
             if (MouseClick.objectName == gameObject.name)
             {
-                if (light.activeInHierarchy)
+                if (light[0].activeInHierarchy)
                 {
                     if (!MouseClick.objectName.Equals("LightTable06_1On"))
                         audioSource.Play();
-                    light.SetActive(false);
+                    light[0].SetActive(false);
                 }
                 else
                 {
                     if (!MouseClick.objectName.Equals("LightTable06_1On"))
                         audioSource.Play();
-                    light.SetActive(true);
+                    for(int i = 0; i < light.Length; i++)
+                        light[i].SetActive(true);
                 }
                 MouseClick.objectName = null;
             }
